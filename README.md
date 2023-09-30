@@ -29,7 +29,8 @@ HTML adalah bahasa yang digunakan untuk membuat halaman web. Bayangkan HTML seba
 
 - Simpan perubahannya dan lakukan refresh pada laman web browser untuk melihat hasilnya
 
-![Screenshot_2023-09-26-06-02-15-393-edit_com android chrome](https://github.com/zangetsuuuu/Lab1Web/assets/115514467/5cea923b-64d6-4df2-9fbd-e999aca42ad2)
+![Screenshot_2023-09-26-06-02-15-393-edit_com android chrome](https://github.com/zangetsuuuu/Lab1Web/assets/115514467/0fb8f881-00e3-4e70-bf6e-af4bc73176b3)
+
 
 - Untuk mengatur paragraf tersebut, gunakan atribut `align` yang bisa diisi dengan beberapa value yang berbeda seperti `justify, right, left, center`
 
@@ -43,7 +44,7 @@ HTML adalah bahasa yang digunakan untuk membuat halaman web. Bayangkan HTML seba
 
 - Simpan perubahannya dan lakukan refresh pada laman web browser untuk melihat hasilnya
 
-![Screenshot_2023-09-26-06-04-56-991-edit_com android chrome](https://github.com/zangetsuuuu/Lab1Web/assets/115514467/a0ac39c2-90a5-42fb-acf2-d66da692a045)
+![Screenshot_2023-09-26-06-04-56-991-edit_com android chrome](https://github.com/zangetsuuuu/Lab1Web/assets/115514467/798624b8-9fc2-4179-adcc-b6c74f2d1586)
 
 - Untuk membuat judul dalam HTML, gunakan tag `<h1>` sampai `<h6>` yang masing-masing memiliki ukuran yang berbeda dan dapat digunakan sesuai kebutuhan
 
@@ -57,7 +58,7 @@ HTML adalah bahasa yang digunakan untuk membuat halaman web. Bayangkan HTML seba
 
 - Simpan perubahannya dan lakukan refresh pada laman web browser untuk melihat hasilnya
 
-![Screenshot_2023-09-26-06-11-33-921-edit_com android chrome](https://github.com/zangetsuuuu/Lab1Web/assets/115514467/3b7d1eb5-a611-4290-a630-0c0dc8eb4005)
+![Screenshot_2023-09-26-06-11-33-921-edit_com android chrome](https://github.com/zangetsuuuu/Lab1Web/assets/115514467/73954b52-1f22-4722-96d2-fcba1072eaac)
 
 - Untuk memformat teks dalam HTML, ada berbagai tag yang dapat digunakan seperti `<b>, <strong>, <i>, <em>, <mark>, <small>, <del>, <ins>, <sub>, <sup>` yang masing-masing memiliki kegunaan yang berbeda
 
@@ -71,7 +72,7 @@ HTML adalah bahasa yang digunakan untuk membuat halaman web. Bayangkan HTML seba
 
 - Simpan perubahannya dan lakukan refresh pada laman web browser untuk melihat hasilnya
 
-![Screenshot_2023-09-26-06-16-56-079-edit_com android chrome](https://github.com/zangetsuuuu/Lab1Web/assets/115514467/1173b2a9-6cfe-460f-8881-93a341d82185)
+![Screenshot_2023-09-26-06-16-56-079-edit_com android chrome](https://github.com/zangetsuuuu/Lab1Web/assets/115514467/fac91140-cc30-4b3a-973b-543c1e209380)
 
 - Untuk menyisipkan gambar dalam HTML, siapkan terlebih dahulu sebuah gambar yang telah didownload, atau bisa menggunakan URL dari gambar yang terdapat di internet dan gunakan tag `<img>` dengan atribut `src` yang berisi path atau URL gambar
 - Gambar akan muncul akan muncul sesuai ukuran aslinya. Untuk mengatur ukurannya bisa menggunakan atribut `width` dan `height` 
@@ -86,7 +87,7 @@ HTML adalah bahasa yang digunakan untuk membuat halaman web. Bayangkan HTML seba
 
 - Simpan perubahannya dan lakukan refresh pada laman web browser untuk melihat hasilnya
 
-![Screenshot_2023-09-26-06-24-28-171-edit_com android chrome](https://github.com/zangetsuuuu/Lab1Web/assets/115514467/4f53f574-fe27-4da9-8da6-dc5cb44a924b)
+![Screenshot_2023-09-26-06-24-28-171-edit_com android chrome](https://github.com/zangetsuuuu/Lab1Web/assets/115514467/855b0d16-953d-4263-a2be-65bf7f1531f2)
 
 - Untuk menambahkan *hyperlink* dalam HTML, gunakan tag `<a>` dengan atribut `href` yang berisi link
 
@@ -101,7 +102,7 @@ HTML adalah bahasa yang digunakan untuk membuat halaman web. Bayangkan HTML seba
 
 - Simpan perubahannya dan lakukan refresh pada laman web browser untuk melihat hasilnya
 
-![IMG_20230926_062805](https://github.com/zangetsuuuu/Lab1Web/assets/115514467/c4747b94-a28d-416e-bee5-6e130f3f12b2)
+![IMG_20230926_062805](https://github.com/zangetsuuuu/Lab1Web/assets/115514467/555e8ee8-fc14-45ea-90ba-a3b1f2e5bb4f)
 
 ---
 
